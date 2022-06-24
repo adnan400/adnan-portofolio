@@ -249,5 +249,6 @@ form button {
 
 .adnan {
     font-size: 12px;
+    display: flex;
+    flex-direction: row;
 }
-
